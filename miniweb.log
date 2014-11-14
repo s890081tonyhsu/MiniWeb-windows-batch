@@ -1,0 +1,25 @@
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 1
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 2
+[408] connection accepted
+[408] IP: 127.0.0.1
+Connected clients: 3
+[412] connection accepted
+[412] IP: 127.0.0.1
+Connected clients: 4
+[416] connection accepted
+[416] IP: 127.0.0.1
+Connected clients: 5
+[400] request path: 
+[400] Http file not found
+[400] socket closed after responded for 1 requests
+Connected clients: 5
+[-1] connection accepted
+[404] Socket no longer vaild.
+[408] Socket no longer vaild.
+[412] Socket no longer vaild.
+[416] Socket no longer vaild.
+Cleaning up...
