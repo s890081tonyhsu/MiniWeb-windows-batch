@@ -1,38 +1,38 @@
-MiniWeb Â²©ö´ú¸Õ¦øªA¾¹
+MiniWeb ç°¡æ˜“æ¸¬è©¦ä¼ºæœå™¨
 ====
 
-Â²¤¶
+ç°¡ä»‹
 ----
 
-¦pªG§A¬O¤@¦ì·s¤âºô­¶³]­p®v¡A·Q¾Ç²ßHTML, CSS, JavascriptªºWindows¥Î¤á
+å¦‚æœä½ æ˜¯ä¸€ä½æ–°æ‰‹ç¶²é è¨­è¨ˆå¸«ï¼Œæƒ³å­¸ç¿’HTML, CSS, Javascriptçš„Windowsç”¨æˆ¶
 
-«DWindows¥Î¤á½Ğª½±µ§ä apache ¬ÛÃö®M¥ó¦w¸Ë
+éWindowsç”¨æˆ¶è«‹ç›´æ¥æ‰¾ apache ç›¸é—œå¥—ä»¶å®‰è£
 
-¦pªG·Q¾Ç²ßphpµ¥¦øªA¾¹»y¨¥ªº½Ğª½±µ§ä xampp ¦w¸Ë
+å¦‚æœæƒ³å­¸ç¿’phpç­‰ä¼ºæœå™¨èªè¨€çš„è«‹ç›´æ¥æ‰¾ xampp å®‰è£
 
-¦w¸Ë¤èªk
+å®‰è£æ–¹æ³•
 ----
 
-Step 1. ½Ğª½±µ«ö¥k¤èªº "Download ZIP"¡A¸ÑÀ£ÁY¦Ü¥ô·N°Ï
+Step 1. è«‹ç›´æ¥æŒ‰å³æ–¹çš„ "Download ZIP"ï¼Œè§£å£“ç¸®è‡³ä»»æ„å€
 
-Step 2. ±N§A­nHostªº¸ê®Æ§¨©ì¦²¦Ü server.bat
+Step 2. å°‡ä½ è¦Hostçš„è³‡æ–™å¤¾æ‹–æ›³è‡³ server.bat
 
-Step 3. ¦pªG¦³Åã¥Ü¸ê°T½Ğª½±µÁY¤p¡A¨Ã±NÂsÄı¾¹³s½u¦Ü http://localhost:8000
+Step 3. å¦‚æœæœ‰é¡¯ç¤ºè³‡è¨Šè«‹ç›´æ¥ç¸®å°ï¼Œä¸¦å°‡ç€è¦½å™¨é€£ç·šè‡³ http://localhost:8000
 
-Step 4. ¨Ï¥ÎCMDªº¥Î¤á¥i¥Hª½±µ¥Î¥H¤U«ü¥O©I¥s¤§
+Step 4. ä½¿ç”¨CMDçš„ç”¨æˆ¶å¯ä»¥ç›´æ¥ç”¨ä»¥ä¸‹æŒ‡ä»¤å‘¼å«ä¹‹
 
 
     %CD%\server.bat %folder%
     
-    REM %CD% = server.bat ©Ò¦b¸ê®Æ§¨
-    REM %folder% = ·Q­n Host ªº¸ê®Æ§¨
+    REM %CD% = server.bat æ‰€åœ¨è³‡æ–™å¤¾
+    REM %folder% = æƒ³è¦ Host çš„è³‡æ–™å¤¾
 
-°Ñ¼Æ½Õ¾ã
+åƒæ•¸èª¿æ•´
 ----
 
 MiniWeb Discuss: http://sourceforge.net/p/miniweb/discussion/319932/thread/ec7b8e3c/
 
-®Ú¾Ú§@ªÌDiscussªí¥Ü¡A§A¥i¥H¨Ï¥Î¥H¤U°Ñ¼Æ©I¥s MiniWeb.exe
+æ ¹æ“šä½œè€…è¡¨ç¤ºï¼Œä½ å¯ä»¥ä½¿ç”¨ä»¥ä¸‹åƒæ•¸å‘¼å« MiniWeb.exe
 
     -p port (integer)
     -r path (path to dir)
@@ -40,18 +40,18 @@ MiniWeb Discuss: http://sourceforge.net/p/miniweb/discussion/319932/thread/ec7b8
     -m maxclients (integer)
     -d ListDirectories (boolean)
     
-server.bat °£¤F -r °Ñ¼Æ¥H¥~¡A¨ä¥L°Ñ¼Æ§A¥i¥H¦b¸Ó¦æ«ü¥O¶i¦æ½Õ°Ê
+server.bat é™¤äº† -r åƒæ•¸ä»¥å¤–ï¼Œå…¶ä»–åƒæ•¸ä½ å¯ä»¥åœ¨è©²è¡ŒæŒ‡ä»¤é€²è¡Œèª¿å‹•
 
-±ÂÅv
+æˆæ¬Š
 ----
 
-¥»Repo¨Ì´`MiniWeb¨Ï¥Î¥H¤U±ÂÅv
+æœ¬Repoä¾å¾ªMiniWebä½¿ç”¨ä»¥ä¸‹æˆæ¬Š
 
 GNU Library or Lesser General Public License version 2.0 (LGPLv2)
 
-MiniWebµ{¦¡ºô¯¸¡Ghttp://sourceforge.net/projects/miniweb/
+MiniWebç¨‹å¼ç¶²ç«™ï¼šhttp://sourceforge.net/projects/miniweb/
 
-¾Ş§@ºI¹Ï
+æ“ä½œæˆªåœ–
 ----
 
 ![image](Demo.png)
