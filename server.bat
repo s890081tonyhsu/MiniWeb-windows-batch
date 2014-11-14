@@ -1,7 +1,7 @@
 @echo off
 PATH=%PATH%;%~dp0;
 SET HTDOCS=%CD%
-tasklist /FI "IMAGENAME eq miniweb.exe" | grep miniweb.exe
+tasklist /FI "IMAGENAME eq miniweb.exe" | findstr miniweb.exe
 IF %ERRORLEVEL% == 0 GOTO Kill
 IF NOT %ERRORLEVEL% == 0 GOTO Start
 
